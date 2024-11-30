@@ -1,0 +1,484 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    width: 1512px;
+    height: 60px;
+    background:#263238;
+    border: 2px solid #263238;
+    margin-top: 10%;
+    margin-left: 35%;
+    position: relative;
+}
+
+body {
+    background: antiquewhite;
+}
+
+.container {
+    width: 1512px;
+    height: 1788.32px;
+    background: white;
+    margin-left: -2px;
+    margin-top: 57px;
+}
+
+.logo {
+    width: 198px;
+    height: 60px;
+    margin-left: 171px;
+    background: var(--Base, #BAEF00);
+    margin-top: -2px;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.t {
+    margin-top: 22px;
+    width: 154px;
+    height: 15.44px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.ul {
+    display: flex;
+    list-style: none;
+    margin-left: 915px;
+    margin-top: 20px;
+}
+
+li {
+    margin-left: 50px;
+    color: #ffffff;
+}
+
+.velo {
+    width: 493.67px;
+    height: 378.32px;
+    margin-top: 60px;
+    margin-left: 847.33px;
+    gap: 0px;
+    opacity: 0px;   
+    position: relativ 
+}
+
+.one {
+    font-size: 34px;
+    width: 487px;
+    height: 78px;
+    margin-top: 170px;
+    margin-left: 171px;
+    position: absolute;
+}
+
+p {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 171px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.btn {
+    width: Hug (288px)px;
+    height:Hug (46px)px;
+    margin-top: 338px;
+    margin-left: 171px;
+    padding: 11px 47px 11px 47px;
+    gap: 10px;
+    border-radius: 12px;
+    opacity: 0px;    
+    position: absolute;
+    background: var(--Base, #BAEF00);
+    border: none;
+}
+
+.velos {
+    width: 1512px;
+    height: 255px;
+    margin-top: 80px;
+}
+
+.te {
+    width: 1170px;
+    height: 39px;
+    top: 933.32px;
+    margin-left: 45%;
+    margin-top: 80px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.v-1 {
+    width: 269.77px;
+    height: 353px;
+    margin-top: 80px;
+    margin-left: 171px;
+    gap: 0px;
+    border-radius: 12px;
+    border: 1px solid gainsboro;
+    opacity: 0px;
+
+}
+
+.tal {
+    width: 266px;
+    height: 180px;
+}
+
+.p {
+    margin-top: -15px;
+    margin-left: 20px;
+    font-size: 21px;
+}
+
+.i {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20.7px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-top: 35px;    
+    margin-left: 15px;
+    color: #6c6c6c;
+}
+
+.btn-2 {
+    width: Fixed (240px)px;
+    height: Hug (40px)px;
+    margin-top: 100px;
+    margin-left: 60px;
+    padding: 11px 47px 11px 47px;
+    gap: 10px;
+    border-radius: 12px;
+    opacity: 0px;  
+    background: #baef00;  
+    border: none;
+}
+
+.v-2 {
+    width: 269.77px;
+    height: 353px;
+    margin-top: -355px;
+    margin-left: 470.97px;
+    gap: 0px;
+    border-radius: 12px;
+    border: 1px solid gainsboro;
+    opacity: 0px;
+
+}
+
+.tal {
+    width: 266px;
+    height: 180px;
+}
+
+.p-2 {
+    margin-top: -15px;
+    margin-left: 20px;
+    font-size: 21px;
+}
+
+.i-2 {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20.7px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-top: 35px;    
+    margin-left: 15px;
+    color: #6c6c6c;
+}
+
+.btn-3 {
+    width: Fixed (240px)px;
+    height: Hug (40px)px;
+    margin-top: 100px;
+    margin-left: 60px;
+    padding: 11px 47px 11px 47px;
+    gap: 10px;
+    border-radius: 12px;
+    opacity: 0px;  
+    background: #baef00;  
+    border: none;
+}
+
+.lix {
+    width: 569.51px;
+    height: 353px;
+    top: 1032.32px;
+    margin-left: 770.49px;
+    padding: 204px 0px 0px 0px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px; 
+    margin-top: -355px;   
+    border: 1px solid black;
+}
+
+.o {
+    width: 568.51px;
+    height: 353px;
+    border-radius: 12px;
+    margin-top: -204px;
+    position: relative;
+}
+
+.visib {
+    width: 570px;
+    height: 149px;
+    margin-top: -155px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: rgba(0, 0, 0, 0.541);
+    position: absolute;
+}
+
+.rich {
+    margin-top: 13px;
+    margin-left: 13px;
+    color: #fffff2;
+    width: 417px;
+    height: 24px;
+}
+
+.class {
+    margin-top: 20px;
+    color: #ffffff;
+    margin-left: 13px;
+}
+
+.btn-buy {
+    width: Fixed (156px)px;
+    height: Hug (40px)px;
+    top: 297px;
+    left: 16px;
+    padding: 11px 47px 11px 47px;
+    gap: 10px;
+    border-radius: 12px;
+    opacity: 0px;    
+    background: #baef00;
+    border: none;
+    margin-top: 40px;
+    margin-left: 16px;
+}
+
+.lux {
+    width: 568.51px;
+    height: 353px;
+    top: 1415.32px;
+    left: 172px;
+    padding: 204px 0px 0px 0px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    
+}
+
+.reset {
+    width: 568.51px;
+    height: 558px;
+    top: 1415.32px;
+    left: 172px;
+    padding: 204px 0px 0px 0px;
+    gap: 0px;
+    border-radius: 12px;
+    border-top: 12px;
+    opacity: 0px;
+    position: absolute;
+    margin-top: -182px;
+}
+
+.visib-2 {
+    width: 568px;
+    height: 149px;
+    margin-top: 30px;
+    gap: 0px;
+    border-radius: 0 0 12px 12px;
+    opacity: 0px;
+    background: rgba(0, 0, 0, 0.541);
+    position: absolute;
+    margin-left: 174px;
+}
+
+.h10 {
+    margin-top: 11px;
+    color: #fff;
+    margin-left: 12px;
+}
+
+.soulders {
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.bit {
+    width: Fixed (156px)px;
+    height: Hug (40px)px;
+    top: 297px;
+    left: 16px;
+    padding: 11px 47px 11px 47px;
+    gap: 10px;
+    border-radius: 12px;
+    opacity: 0px; 
+    border: none;   
+    background: #BAEF00;
+    margin-top: 44px;
+    margin-left: 16px;
+}
+
+.shlem {
+    width: 269.77px;
+    height: 353px;
+    top: 1415.32px;
+    left: 771.49px;
+    gap: 0px;
+    border-radius: 12px;
+    border: 1px solid black;
+    opacity: 0px;
+    margin-top: -173px;
+    margin-left: 771.49px;
+}
+
+.slem {
+    width: 268px;
+    height: 180px;
+    top: 1px;
+    left: 0px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    margin-left: 0px;
+}
+
+.hacker {
+    margin-top: -50px;
+    font-family: Arial;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 24.15px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left: 14px;
+    margin-top: 15px;
+}
+
+.lux-lix {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24.15px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #6c6c6c;    
+    margin-top: 44px;
+    margin-left: 14px;
+}
+
+.money {
+    width: Fixed (240px)px;
+    height: Hug (40px)px;
+    top: 297px;
+    left: 15px;
+    padding: 11px 47px 11px 47px;
+    gap: 10px;
+    border-radius: 12px;
+    opacity: 0px;   
+    border: none; 
+    background: #BAEF00;
+    margin-top: 70px;
+    margin-left: 25%;
+}
+
+.pos {
+    width: 269.77px;
+    height: 353px;
+    top: 1415.32px;
+    left: 1071.23px;
+    gap: 0px;
+    border-radius: 12px;
+    border: 1px solid black;
+    opacity: 0px; 
+    margin-left: 1071.23px;
+    margin-top: -355px;   
+}
+
+.src {
+    width: 268px;
+    height: 180px;
+    top: 1px;
+    left: 1px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+}
+
+.posledniy {
+    margin-top: -0px;
+    margin-left: 14px;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 24.15px;
+}
+
+.opka {
+    margin-top: 32px;
+    margin-left: 14px;
+    font-size: 18px;
+    color: #6c6c6c;
+    font-weight: 700;
+    line-height: 24.15px;
+}
+
+.karl {
+    width: Fixed (240px)px;
+    height: Hug (40px)px;
+    top: 297px;
+    left: 15px;
+    padding: 11px 47px 11px 47px;
+    gap: 10px;
+    border-radius: 12px;
+    opacity: 0px;    
+    border: none;
+    background: #BAEF00;
+    margin-top: 52px;
+    margin-left: 25%;
+}
+
+.dusha {
+    background: var(--Stroke, #E3E3E3);
+    width: 1512px;
+    height: 60px;
+    margin-left: -2px;
+}
+
+.poslednyy {
+    margin-top: 20px;
+    margin-left: 679px;
+    color: #26323880;
+    width: 154px;
+    height: 15.28px;
+    
+}
